@@ -280,7 +280,8 @@
         app:layout_constraintVertical_bias="0.049" />
 
 
-    <!--                Bài của anh nghĩa-->
+
+   
     <!--        <TextView-->
     <!--            android:id="@+id/textView"-->
     <!--            android:layout_width="wrap_content"-->
